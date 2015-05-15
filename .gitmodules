@@ -1,0 +1,3 @@
+[submodule "HMI"]
+	path = HMI
+	url = git://github.com/KelevroDev/Navi
